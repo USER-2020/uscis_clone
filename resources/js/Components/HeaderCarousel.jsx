@@ -6,28 +6,6 @@ import { Link, usePage } from "@inertiajs/react";
 const SLIDES = [
     {
         id: 1,
-        layout: "default",
-        title: {
-            en: "USCIS to Mandate Electronic Payments for Applications",
-            es: "USCIS exigirá pagos electrónicos para las solicitudes",
-        },
-        body: {
-            en: "Starting on Oct. 28, 2025, USCIS will no longer accept checks, money orders, or other forms of paper payments.",
-            es: "A partir del 28 de octubre de 2025, USCIS ya no aceptará cheques, giros postales ni otras formas de pago en papel.",
-        },
-        buttonText: {
-            en: "Learn More",
-            es: "Más información",
-        },
-        buttonHref: "#",
-        image: "/img/paymetn-secured.png",
-        imageAlt: {
-            en: "Secure credit card illustration",
-            es: "Ilustración de pago con tarjeta segura",
-        },
-    },
-    {
-        id: 2,
         layout: "recruitment",
         title: {
             en: "Join USCIS",
@@ -54,7 +32,7 @@ const SLIDES = [
         },
     },
     {
-        id: 3,
+        id: 2,
         layout: "default",
         title: {
             en: "USCIS Releases New H-1B Guidance",
@@ -76,7 +54,7 @@ const SLIDES = [
         },
     },
     {
-        id: 4,
+        id: 3,
         layout: "default",
         title: {
             en: "USCIS Announces 2025 Naturalization Civics Test",
@@ -98,7 +76,7 @@ const SLIDES = [
         },
     },
     {
-        id: 5,
+        id: 4,
         layout: "default",
         title: {
             en: "USCIS is now collecting new fees for certain immigration benefit requests.",
@@ -120,7 +98,7 @@ const SLIDES = [
         },
     },
     {
-        id: 6,
+        id: 5,
         layout: "recruitment",
         title: {
             en: "U.S. Government Provides Assistance to Voluntarily Self Deport",
@@ -147,7 +125,7 @@ const SLIDES = [
         },
     },
     {
-        id: 7,
+        id: 6,
         layout: "recruitment",
         title: {
             en: "New Reporting Tool Available to SAVE and E-Verify Users",
@@ -174,7 +152,7 @@ const SLIDES = [
         },
     },
     {
-        id: 8,
+        id: 7,
         layout: "recruitment",
         title: {
             en: "How to Comply with the Alien Registration Requirement",
@@ -201,7 +179,7 @@ const SLIDES = [
         },
     },
     {
-        id: 9,
+        id: 8,
         layout: "default",
         title: {
             en: "Making America Safe Again",
@@ -226,7 +204,7 @@ const SLIDES = [
         },
     },
     {
-        id: 10,
+        id: 9,
         layout: "default",
         title: {
             en: "Help USCIS by Reporting Fraud",
